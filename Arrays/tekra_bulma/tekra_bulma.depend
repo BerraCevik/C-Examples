@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672607078 source:c:\users\berra\desktop\c coding\diziler\tekra_bulma\main.c
+	<stdio.h>
+	<stdlib.h>
+

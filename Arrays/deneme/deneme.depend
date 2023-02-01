@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672592137 source:c:\users\berra\desktop\c coding\diziler\deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+

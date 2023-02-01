@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672596288 source:c:\users\berra\desktop\c coding\diziler\dizi_toplama\main.c
+	<stdio.h>
+	<stdlib.h>
+
