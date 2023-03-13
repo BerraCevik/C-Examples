@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678726682 source:c:\users\berra\desktop\c coding\arrays\matriste_sayi_bulma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
